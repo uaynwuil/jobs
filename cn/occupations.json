@@ -1,0 +1,2422 @@
+[
+  {
+    "title": "装配工人",
+    "slug": "zhuangpei-gongren",
+    "category": "制造业",
+    "median_pay_annual": 55000,
+    "num_jobs": 18000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "焊接工",
+    "slug": "hanjie-gong",
+    "category": "制造业",
+    "median_pay_annual": 72000,
+    "num_jobs": 8000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "数控机床操作员",
+    "slug": "shukong-jichuang-caozuoyuan",
+    "category": "制造业",
+    "median_pay_annual": 78000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "质检员",
+    "slug": "zhijian-yuan",
+    "category": "制造业",
+    "median_pay_annual": 60000,
+    "num_jobs": 6000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "工厂主管",
+    "slug": "gongchang-zhuguan",
+    "category": "制造业",
+    "median_pay_annual": 120000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "纺织工人",
+    "slug": "fangzhi-gongren",
+    "category": "制造业",
+    "median_pay_annual": 48000,
+    "num_jobs": 12000000,
+    "education": "初中及以下",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "食品加工工人",
+    "slug": "shipin-jiagong-gongren",
+    "category": "制造业",
+    "median_pay_annual": 50000,
+    "num_jobs": 9000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "模具设计师",
+    "slug": "muju-shejishi",
+    "category": "制造业",
+    "median_pay_annual": 110000,
+    "num_jobs": 800000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "电子装配工",
+    "slug": "dianzi-zhuangpei-gong",
+    "category": "制造业",
+    "median_pay_annual": 55000,
+    "num_jobs": 10000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "工业工程师",
+    "slug": "gongye-gongchengshi",
+    "category": "制造业",
+    "median_pay_annual": 150000,
+    "num_jobs": 1200000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "机械工程师",
+    "slug": "jixie-gongchengshi",
+    "category": "制造业",
+    "median_pay_annual": 140000,
+    "num_jobs": 2000000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "汽车装配工",
+    "slug": "qiche-zhuangpei-gong",
+    "category": "制造业",
+    "median_pay_annual": 65000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "工业机器人运维员",
+    "slug": "gongye-jiqiren-yunweiyuan",
+    "category": "制造业",
+    "median_pay_annual": 100000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "化工操作员",
+    "slug": "huagong-caozuoyuan",
+    "category": "制造业",
+    "median_pay_annual": 70000,
+    "num_jobs": 4000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "印刷工",
+    "slug": "yinshua-gong",
+    "category": "制造业",
+    "median_pay_annual": 52000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "包装工",
+    "slug": "baozhuang-gong",
+    "category": "制造业",
+    "median_pay_annual": 45000,
+    "num_jobs": 6000000,
+    "education": "初中及以下",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "电气工程师",
+    "slug": "dianqi-gongchengshi",
+    "category": "制造业",
+    "median_pay_annual": 145000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "制造业经理",
+    "slug": "zhizaoye-jingli",
+    "category": "制造业",
+    "median_pay_annual": 200000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "工艺工程师",
+    "slug": "gongyi-gongchengshi",
+    "category": "制造业",
+    "median_pay_annual": 130000,
+    "num_jobs": 1200000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "设备维修技工",
+    "slug": "shebei-weixiu-jigong",
+    "category": "制造业",
+    "median_pay_annual": 80000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "仓库管理员",
+    "slug": "cangku-guanliyuan",
+    "category": "制造业",
+    "median_pay_annual": 55000,
+    "num_jobs": 8000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "注塑工",
+    "slug": "zhusi-gong",
+    "category": "制造业",
+    "median_pay_annual": 58000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "软件工程师",
+    "slug": "ruanjian-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 250000,
+    "num_jobs": 4000000,
+    "education": "本科",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "前端开发工程师",
+    "slug": "qianduan-kaifa-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 200000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "数据分析师",
+    "slug": "shuju-fenxishi",
+    "category": "信息技术",
+    "median_pay_annual": 180000,
+    "num_jobs": 2000000,
+    "education": "本科",
+    "outlook_pct": 4,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "AI工程师",
+    "slug": "ai-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 350000,
+    "num_jobs": 800000,
+    "education": "硕士",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "数据标注员",
+    "slug": "shuju-biaozhuyuan",
+    "category": "信息技术",
+    "median_pay_annual": 45000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "云计算工程师",
+    "slug": "yunjisuan-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 280000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "网络安全工程师",
+    "slug": "wangluo-anquan-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 220000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 10,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "产品经理",
+    "slug": "chanpin-jingli",
+    "category": "信息技术",
+    "median_pay_annual": 250000,
+    "num_jobs": 2000000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "UI设计师",
+    "slug": "ui-shejishi",
+    "category": "信息技术",
+    "median_pay_annual": 160000,
+    "num_jobs": 1200000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "测试工程师",
+    "slug": "ceshi-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 170000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "运维工程师",
+    "slug": "yunwei-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 180000,
+    "num_jobs": 1200000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "数据库管理员",
+    "slug": "shujuku-guanliyuan",
+    "category": "信息技术",
+    "median_pay_annual": 160000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "大数据工程师",
+    "slug": "dashuju-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 260000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 6,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "IT项目经理",
+    "slug": "it-xiangmu-jingli",
+    "category": "信息技术",
+    "median_pay_annual": 280000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "嵌入式开发工程师",
+    "slug": "qianrushi-kaifa-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 200000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 4,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "算法工程师",
+    "slug": "suanfa-gongchengshi",
+    "category": "信息技术",
+    "median_pay_annual": 320000,
+    "num_jobs": 600000,
+    "education": "硕士",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "生成式AI应用员",
+    "slug": "shengchengshi-ai-yingyongyuan",
+    "category": "信息技术",
+    "median_pay_annual": 150000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 25,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "临床医生",
+    "slug": "linchuang-yisheng",
+    "category": "医疗卫生",
+    "median_pay_annual": 180000,
+    "num_jobs": 3500000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "护士",
+    "slug": "hushi",
+    "category": "医疗卫生",
+    "median_pay_annual": 90000,
+    "num_jobs": 5000000,
+    "education": "大专",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "药剂师",
+    "slug": "yaojishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 110000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "中医师",
+    "slug": "zhongyishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 130000,
+    "num_jobs": 1200000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "牙科医生",
+    "slug": "yake-yisheng",
+    "category": "医疗卫生",
+    "median_pay_annual": 200000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "放射科医生",
+    "slug": "fangsheke-yisheng",
+    "category": "医疗卫生",
+    "median_pay_annual": 220000,
+    "num_jobs": 400000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "医学检验技师",
+    "slug": "yixue-jianyan-jishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 100000,
+    "num_jobs": 800000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "康复治疗师",
+    "slug": "kangfu-zhiliaoshi",
+    "category": "医疗卫生",
+    "median_pay_annual": 90000,
+    "num_jobs": 400000,
+    "education": "大专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "公共卫生医师",
+    "slug": "gonggong-weisheng-yishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 130000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "麻醉师",
+    "slug": "mazuishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 250000,
+    "num_jobs": 200000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "外科医生",
+    "slug": "waike-yisheng",
+    "category": "医疗卫生",
+    "median_pay_annual": 280000,
+    "num_jobs": 800000,
+    "education": "硕士",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "互联网医生",
+    "slug": "hulianwang-yisheng",
+    "category": "医疗卫生",
+    "median_pay_annual": 200000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "睡眠健康管理师",
+    "slug": "shuimian-jiankang-guanlishi",
+    "category": "医疗卫生",
+    "median_pay_annual": 100000,
+    "num_jobs": 100000,
+    "education": "大专",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "医疗器械技术员",
+    "slug": "yiliao-qixie-jishuyuan",
+    "category": "医疗卫生",
+    "median_pay_annual": 100000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "护理员",
+    "slug": "huliyuan",
+    "category": "医疗卫生",
+    "median_pay_annual": 50000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "营养师",
+    "slug": "yingyangshi",
+    "category": "医疗卫生",
+    "median_pay_annual": 100000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 4,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "心理咨询师",
+    "slug": "xinli-zixunshi",
+    "category": "医疗卫生",
+    "median_pay_annual": 120000,
+    "num_jobs": 400000,
+    "education": "本科",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "小学教师",
+    "slug": "xiaoxue-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 85000,
+    "num_jobs": 6000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "中学教师",
+    "slug": "zhongxue-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 95000,
+    "num_jobs": 5500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "大学教授",
+    "slug": "daxue-jiaoshou",
+    "category": "教育",
+    "median_pay_annual": 180000,
+    "num_jobs": 1800000,
+    "education": "博士",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "幼儿园教师",
+    "slug": "youeryuan-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 60000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "职业培训师",
+    "slug": "zhiye-peixunshi",
+    "category": "教育",
+    "median_pay_annual": 110000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "特殊教育教师",
+    "slug": "teshu-jiaoyu-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 80000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "在线教育讲师",
+    "slug": "zaixian-jiaoyu-jiangshi",
+    "category": "教育",
+    "median_pay_annual": 130000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "体育教师",
+    "slug": "tiyu-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 80000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "音乐教师",
+    "slug": "yinyue-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 75000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "教育行政人员",
+    "slug": "jiaoyu-xingzheng-renyuan",
+    "category": "教育",
+    "median_pay_annual": 100000,
+    "num_jobs": 2000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "大学辅导员",
+    "slug": "daxue-fudaoyuan",
+    "category": "教育",
+    "median_pay_annual": 90000,
+    "num_jobs": 500000,
+    "education": "硕士",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "早教教师",
+    "slug": "zaojiao-jiaoshi",
+    "category": "教育",
+    "median_pay_annual": 55000,
+    "num_jobs": 1000000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "驾校教练",
+    "slug": "jiaxiao-jiaolian",
+    "category": "教育",
+    "median_pay_annual": 70000,
+    "num_jobs": 1200000,
+    "education": "高中/中专",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "培训机构管理者",
+    "slug": "peixun-jigou-guanlizhe",
+    "category": "教育",
+    "median_pay_annual": 140000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "科研助理",
+    "slug": "keyan-zhuli",
+    "category": "教育",
+    "median_pay_annual": 80000,
+    "num_jobs": 600000,
+    "education": "硕士",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "图书馆员",
+    "slug": "tushuguan-yuan",
+    "category": "教育",
+    "median_pay_annual": 70000,
+    "num_jobs": 400000,
+    "education": "本科",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "银行柜员",
+    "slug": "yinhang-guiyuan",
+    "category": "金融",
+    "median_pay_annual": 80000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": -5,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "理财顾问",
+    "slug": "licai-guwen",
+    "category": "金融",
+    "median_pay_annual": 150000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "证券分析师",
+    "slug": "zhengquan-fenxishi",
+    "category": "金融",
+    "median_pay_annual": 300000,
+    "num_jobs": 400000,
+    "education": "硕士",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "保险代理人",
+    "slug": "baoxian-dailiren",
+    "category": "金融",
+    "median_pay_annual": 80000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "风控专员",
+    "slug": "fengkong-zhuanyuan",
+    "category": "金融",
+    "median_pay_annual": 180000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "会计",
+    "slug": "kuaiji",
+    "category": "金融",
+    "median_pay_annual": 90000,
+    "num_jobs": 8000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "审计师",
+    "slug": "shenji-shi",
+    "category": "金融",
+    "median_pay_annual": 160000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "基金经理",
+    "slug": "jijin-jingli",
+    "category": "金融",
+    "median_pay_annual": 500000,
+    "num_jobs": 100000,
+    "education": "硕士",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "信贷员",
+    "slug": "xindai-yuan",
+    "category": "金融",
+    "median_pay_annual": 100000,
+    "num_jobs": 1500000,
+    "education": "大专",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "金融科技工程师",
+    "slug": "jinrong-keji-gongchengshi",
+    "category": "金融",
+    "median_pay_annual": 280000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 10,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "精算师",
+    "slug": "jingsuan-shi",
+    "category": "金融",
+    "median_pay_annual": 350000,
+    "num_jobs": 50000,
+    "education": "硕士",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "投资银行分析师",
+    "slug": "touzi-yinhang-fenxishi",
+    "category": "金融",
+    "median_pay_annual": 400000,
+    "num_jobs": 200000,
+    "education": "硕士",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "银行客户经理",
+    "slug": "yinhang-kehu-jingli",
+    "category": "金融",
+    "median_pay_annual": 130000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "出纳",
+    "slug": "chuna",
+    "category": "金融",
+    "median_pay_annual": 60000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "税务师",
+    "slug": "shuiwu-shi",
+    "category": "金融",
+    "median_pay_annual": 150000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "建筑工人",
+    "slug": "jianzhu-gongren",
+    "category": "建筑工程",
+    "median_pay_annual": 65000,
+    "num_jobs": 30000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "土木工程师",
+    "slug": "tumu-gongchengshi",
+    "category": "建筑工程",
+    "median_pay_annual": 150000,
+    "num_jobs": 2000000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "建筑设计师",
+    "slug": "jianzhu-shejishi",
+    "category": "建筑工程",
+    "median_pay_annual": 180000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "装修工人",
+    "slug": "zhuangxiu-gongren",
+    "category": "建筑工程",
+    "median_pay_annual": 75000,
+    "num_jobs": 12000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "电工",
+    "slug": "diangong",
+    "category": "建筑工程",
+    "median_pay_annual": 72000,
+    "num_jobs": 8000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "水暖工",
+    "slug": "shuinuan-gong",
+    "category": "建筑工程",
+    "median_pay_annual": 68000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "监理工程师",
+    "slug": "jianli-gongchengshi",
+    "category": "建筑工程",
+    "median_pay_annual": 140000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "BIM工程师",
+    "slug": "bim-gongchengshi",
+    "category": "建筑工程",
+    "median_pay_annual": 160000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "工程造价师",
+    "slug": "gongcheng-zaojia-shi",
+    "category": "建筑工程",
+    "median_pay_annual": 140000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "钢筋工",
+    "slug": "gangjin-gong",
+    "category": "建筑工程",
+    "median_pay_annual": 70000,
+    "num_jobs": 8000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "混凝土工",
+    "slug": "hunningtu-gong",
+    "category": "建筑工程",
+    "median_pay_annual": 65000,
+    "num_jobs": 6000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "测量员",
+    "slug": "celiang-yuan",
+    "category": "建筑工程",
+    "median_pay_annual": 80000,
+    "num_jobs": 1500000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "起重机操作员",
+    "slug": "qizhongji-caozuoyuan",
+    "category": "建筑工程",
+    "median_pay_annual": 85000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "房地产经纪人",
+    "slug": "fangdichan-jingjiren",
+    "category": "建筑工程",
+    "median_pay_annual": 100000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "物业经理",
+    "slug": "wuye-jingli",
+    "category": "建筑工程",
+    "median_pay_annual": 90000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "建筑项目经理",
+    "slug": "jianzhu-xiangmu-jingli",
+    "category": "建筑工程",
+    "median_pay_annual": 220000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "室内设计师",
+    "slug": "shinei-shejishi",
+    "category": "建筑工程",
+    "median_pay_annual": 120000,
+    "num_jobs": 1500000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "园林设计师",
+    "slug": "yuanlin-shejishi",
+    "category": "建筑工程",
+    "median_pay_annual": 110000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "货车司机",
+    "slug": "huoche-siji",
+    "category": "交通运输",
+    "median_pay_annual": 90000,
+    "num_jobs": 18000000,
+    "education": "初中及以下",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "网约车司机",
+    "slug": "wangyueche-siji",
+    "category": "交通运输",
+    "median_pay_annual": 96000,
+    "num_jobs": 6000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "外卖骑手",
+    "slug": "waimai-qishou",
+    "category": "交通运输",
+    "median_pay_annual": 84000,
+    "num_jobs": 10000000,
+    "education": "初中及以下",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "快递员",
+    "slug": "kuaidi-yuan",
+    "category": "交通运输",
+    "median_pay_annual": 78000,
+    "num_jobs": 8000000,
+    "education": "初中及以下",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "公交司机",
+    "slug": "gongjiao-siji",
+    "category": "交通运输",
+    "median_pay_annual": 80000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "地铁司机",
+    "slug": "ditie-siji",
+    "category": "交通运输",
+    "median_pay_annual": 100000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "出租车司机",
+    "slug": "chuzuche-siji",
+    "category": "交通运输",
+    "median_pay_annual": 72000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "飞行员",
+    "slug": "feixingyuan",
+    "category": "交通运输",
+    "median_pay_annual": 600000,
+    "num_jobs": 80000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "船员",
+    "slug": "chuanyuan",
+    "category": "交通运输",
+    "median_pay_annual": 100000,
+    "num_jobs": 1500000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "物流管理员",
+    "slug": "wuliu-guanliyuan",
+    "category": "交通运输",
+    "median_pay_annual": 90000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "仓储物流工人",
+    "slug": "cangchu-wuliu-gongren",
+    "category": "交通运输",
+    "median_pay_annual": 55000,
+    "num_jobs": 10000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "铁路工人",
+    "slug": "tielu-gongren",
+    "category": "交通运输",
+    "median_pay_annual": 80000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "航空乘务员",
+    "slug": "hangkong-chengwuyuan",
+    "category": "交通运输",
+    "median_pay_annual": 150000,
+    "num_jobs": 300000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "交通调度员",
+    "slug": "jiaotong-diaoduyuan",
+    "category": "交通运输",
+    "median_pay_annual": 90000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "智能网联汽车测试员",
+    "slug": "zhineng-wanglian-qiche-ceshiyuan",
+    "category": "交通运输",
+    "median_pay_annual": 180000,
+    "num_jobs": 100000,
+    "education": "本科",
+    "outlook_pct": 25,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "无人机操作员",
+    "slug": "wurenj-caozuoyuan",
+    "category": "交通运输",
+    "median_pay_annual": 100000,
+    "num_jobs": 200000,
+    "education": "大专",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "种植业农民",
+    "slug": "zhongzhiye-nongmin",
+    "category": "农林牧渔",
+    "median_pay_annual": 28000,
+    "num_jobs": 95000000,
+    "education": "初中及以下",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "畜牧养殖员",
+    "slug": "xumu-yangzhiyuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 35000,
+    "num_jobs": 20000000,
+    "education": "初中及以下",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "渔民",
+    "slug": "yumin",
+    "category": "农林牧渔",
+    "median_pay_annual": 40000,
+    "num_jobs": 8000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "林业工人",
+    "slug": "linye-gongren",
+    "category": "农林牧渔",
+    "median_pay_annual": 35000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "农机操作员",
+    "slug": "nongji-caozuoyuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 45000,
+    "num_jobs": 8000000,
+    "education": "初中及以下",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "农业技术员",
+    "slug": "nongye-jishuyuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 70000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "兽医",
+    "slug": "shouyi",
+    "category": "农林牧渔",
+    "median_pay_annual": 80000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "农产品加工工人",
+    "slug": "nongchanpin-jiagong-gongren",
+    "category": "农林牧渔",
+    "median_pay_annual": 42000,
+    "num_jobs": 10000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "花卉园艺师",
+    "slug": "huahui-yuanyishi",
+    "category": "农林牧渔",
+    "median_pay_annual": 50000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "茶叶种植工",
+    "slug": "chaye-zhongzhi-gong",
+    "category": "农林牧渔",
+    "median_pay_annual": 35000,
+    "num_jobs": 3000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "水产养殖员",
+    "slug": "shuichan-yangzhiyuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 45000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "农药植保员",
+    "slug": "nongyao-zhibaoyuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 40000,
+    "num_jobs": 3000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "粮食收购员",
+    "slug": "liangshi-shougou-yuan",
+    "category": "农林牧渔",
+    "median_pay_annual": 45000,
+    "num_jobs": 1000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "果树种植工",
+    "slug": "guoshu-zhongzhi-gong",
+    "category": "农林牧渔",
+    "median_pay_annual": 32000,
+    "num_jobs": 8000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "农业经理人",
+    "slug": "nongye-jingliren",
+    "category": "农林牧渔",
+    "median_pay_annual": 100000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "农村电商运营",
+    "slug": "nongcun-dianshang-yunying",
+    "category": "农林牧渔",
+    "median_pay_annual": 60000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "企业管理咨询顾问",
+    "slug": "qiye-guanli-zixun-guwen",
+    "category": "商业服务",
+    "median_pay_annual": 250000,
+    "num_jobs": 500000,
+    "education": "硕士",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "人力资源管理师",
+    "slug": "renli-ziyuan-guanlishi",
+    "category": "商业服务",
+    "median_pay_annual": 120000,
+    "num_jobs": 3000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "市场调研分析师",
+    "slug": "shichang-diaoyan-fenxishi",
+    "category": "商业服务",
+    "median_pay_annual": 150000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "广告策划",
+    "slug": "guanggao-cehua",
+    "category": "商业服务",
+    "median_pay_annual": 140000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "翻译",
+    "slug": "fanyi",
+    "category": "商业服务",
+    "median_pay_annual": 100000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": -5,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "知识产权代理",
+    "slug": "zhishi-chanquan-daili",
+    "category": "商业服务",
+    "median_pay_annual": 160000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "商务秘书",
+    "slug": "shangwu-mishu",
+    "category": "商业服务",
+    "median_pay_annual": 80000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "品牌经理",
+    "slug": "pinpai-jingli",
+    "category": "商业服务",
+    "median_pay_annual": 200000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "公关专员",
+    "slug": "gongguan-zhuanyuan",
+    "category": "商业服务",
+    "median_pay_annual": 110000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "行政管理人员",
+    "slug": "xingzheng-guanli-renyuan",
+    "category": "商业服务",
+    "median_pay_annual": 80000,
+    "num_jobs": 5000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "项目管理专员",
+    "slug": "xiangmu-guanli-zhuanyuan",
+    "category": "商业服务",
+    "median_pay_annual": 140000,
+    "num_jobs": 1500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "采购经理",
+    "slug": "caigou-jingli",
+    "category": "商业服务",
+    "median_pay_annual": 150000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "商务拓展经理",
+    "slug": "shangwu-tuozhan-jingli",
+    "category": "商业服务",
+    "median_pay_annual": 180000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "猎头顾问",
+    "slug": "lietou-guwen",
+    "category": "商业服务",
+    "median_pay_annual": 200000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "企业培训师",
+    "slug": "qiye-peixunshi",
+    "category": "商业服务",
+    "median_pay_annual": 130000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "法务专员",
+    "slug": "fawu-zhuanyuan",
+    "category": "商业服务",
+    "median_pay_annual": 130000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "中式厨师",
+    "slug": "zhongshi-chushi",
+    "category": "餐饮住宿",
+    "median_pay_annual": 65000,
+    "num_jobs": 15000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "西式厨师",
+    "slug": "xishi-chushi",
+    "category": "餐饮住宿",
+    "median_pay_annual": 70000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "餐厅服务员",
+    "slug": "canting-fuwuyuan",
+    "category": "餐饮住宿",
+    "median_pay_annual": 45000,
+    "num_jobs": 20000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "酒店前台",
+    "slug": "jiudian-qiantai",
+    "category": "餐饮住宿",
+    "median_pay_annual": 55000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "酒店管理经理",
+    "slug": "jiudian-guanli-jingli",
+    "category": "餐饮住宿",
+    "median_pay_annual": 130000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "面点师",
+    "slug": "miandian-shi",
+    "category": "餐饮住宿",
+    "median_pay_annual": 55000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "调酒师",
+    "slug": "tiaojiu-shi",
+    "category": "餐饮住宿",
+    "median_pay_annual": 70000,
+    "num_jobs": 500000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "茶艺师",
+    "slug": "chayi-shi",
+    "category": "餐饮住宿",
+    "median_pay_annual": 55000,
+    "num_jobs": 800000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "火锅店员工",
+    "slug": "huoguo-dian-yuangong",
+    "category": "餐饮住宿",
+    "median_pay_annual": 48000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "食品安全管理员",
+    "slug": "shipin-anquan-guanliyuan",
+    "category": "餐饮住宿",
+    "median_pay_annual": 80000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "连锁餐饮店长",
+    "slug": "liansuo-canyin-dianzhang",
+    "category": "餐饮住宿",
+    "median_pay_annual": 100000,
+    "num_jobs": 1000000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "外卖商家运营",
+    "slug": "waimai-shangjia-yunying",
+    "category": "餐饮住宿",
+    "median_pay_annual": 70000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "导游",
+    "slug": "daoyou",
+    "category": "餐饮住宿",
+    "median_pay_annual": 60000,
+    "num_jobs": 1000000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "旅行社计调",
+    "slug": "lvxingshe-jidiao",
+    "category": "餐饮住宿",
+    "median_pay_annual": 65000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "民宿经营者",
+    "slug": "minsu-jingyingzhe",
+    "category": "餐饮住宿",
+    "median_pay_annual": 80000,
+    "num_jobs": 1000000,
+    "education": "高中/中专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "记者",
+    "slug": "jizhe",
+    "category": "文化传媒",
+    "median_pay_annual": 110000,
+    "num_jobs": 800000,
+    "education": "本科",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "编辑",
+    "slug": "bianji",
+    "category": "文化传媒",
+    "median_pay_annual": 90000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "网络主播",
+    "slug": "wangluo-zhubo",
+    "category": "文化传媒",
+    "median_pay_annual": 100000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "短视频创作者",
+    "slug": "duanshipin-chuangzuozhe",
+    "category": "文化传媒",
+    "median_pay_annual": 80000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "游戏设计师",
+    "slug": "youxi-shejishi",
+    "category": "文化传媒",
+    "median_pay_annual": 200000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "影视导演",
+    "slug": "yingshi-daoyan",
+    "category": "文化传媒",
+    "median_pay_annual": 200000,
+    "num_jobs": 100000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "摄影师",
+    "slug": "sheyingshi",
+    "category": "文化传媒",
+    "median_pay_annual": 80000,
+    "num_jobs": 1500000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "动画设计师",
+    "slug": "donghua-shejishi",
+    "category": "文化传媒",
+    "median_pay_annual": 130000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "平面设计师",
+    "slug": "pingmian-shejishi",
+    "category": "文化传媒",
+    "median_pay_annual": 100000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "文创产品策划运营师",
+    "slug": "wenchuang-chanpin-cehua-yunying-shi",
+    "category": "文化传媒",
+    "median_pay_annual": 110000,
+    "num_jobs": 200000,
+    "education": "本科",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "版权经纪人",
+    "slug": "banquan-jingjiren",
+    "category": "文化传媒",
+    "median_pay_annual": 150000,
+    "num_jobs": 50000,
+    "education": "本科",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "音乐制作人",
+    "slug": "yinyue-zhizuoren",
+    "category": "文化传媒",
+    "median_pay_annual": 150000,
+    "num_jobs": 200000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "编剧",
+    "slug": "bianju",
+    "category": "文化传媒",
+    "median_pay_annual": 120000,
+    "num_jobs": 200000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "播音主持",
+    "slug": "boyin-zhuchi",
+    "category": "文化传媒",
+    "median_pay_annual": 100000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "新媒体运营",
+    "slug": "xinmeiti-yunying",
+    "category": "文化传媒",
+    "median_pay_annual": 90000,
+    "num_jobs": 3000000,
+    "education": "本科",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "公务员",
+    "slug": "gongwuyuan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 100000,
+    "num_jobs": 8000000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "警察",
+    "slug": "jingcha",
+    "category": "法律与公共管理",
+    "median_pay_annual": 110000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "法官",
+    "slug": "faguan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 150000,
+    "num_jobs": 130000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "律师",
+    "slug": "lvshi",
+    "category": "法律与公共管理",
+    "median_pay_annual": 200000,
+    "num_jobs": 600000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "检察官",
+    "slug": "jianchaguan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 140000,
+    "num_jobs": 90000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "公证员",
+    "slug": "gongzhengyuan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 130000,
+    "num_jobs": 30000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "消防员",
+    "slug": "xiaofangyuan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 90000,
+    "num_jobs": 500000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "社区工作者",
+    "slug": "shequ-gongzuozhe",
+    "category": "法律与公共管理",
+    "median_pay_annual": 60000,
+    "num_jobs": 4000000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "城市管理执法员",
+    "slug": "chengshi-guanli-zhifayuan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 75000,
+    "num_jobs": 1000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "法律助理",
+    "slug": "falv-zhuli",
+    "category": "法律与公共管理",
+    "median_pay_annual": 80000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "社会工作者",
+    "slug": "shehui-gongzuozhe",
+    "category": "法律与公共管理",
+    "median_pay_annual": 65000,
+    "num_jobs": 1500000,
+    "education": "大专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "军人",
+    "slug": "junren",
+    "category": "法律与公共管理",
+    "median_pay_annual": 80000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "信访接待员",
+    "slug": "xinfang-jiedaiyuan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 70000,
+    "num_jobs": 300000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "外交官",
+    "slug": "waijiaoguan",
+    "category": "法律与公共管理",
+    "median_pay_annual": 200000,
+    "num_jobs": 10000,
+    "education": "硕士",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "零售店员",
+    "slug": "lingshou-dianyuan",
+    "category": "销售零售与电商",
+    "median_pay_annual": 48000,
+    "num_jobs": 18000000,
+    "education": "初中及以下",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "电商运营",
+    "slug": "dianshang-yunying",
+    "category": "销售零售与电商",
+    "median_pay_annual": 100000,
+    "num_jobs": 5000000,
+    "education": "大专",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "直播带货主播",
+    "slug": "zhibo-daihuo-zhubo",
+    "category": "销售零售与电商",
+    "median_pay_annual": 120000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "跨境电商运营管理师",
+    "slug": "kuajing-dianshang-yunying-guanlishi",
+    "category": "销售零售与电商",
+    "median_pay_annual": 150000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "用户增长运营师",
+    "slug": "yonghu-zengzhang-yunying-shi",
+    "category": "销售零售与电商",
+    "median_pay_annual": 180000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 8,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "房产销售",
+    "slug": "fangchan-xiaoshou",
+    "category": "销售零售与电商",
+    "median_pay_annual": 100000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": -3,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "汽车销售",
+    "slug": "qiche-xiaoshou",
+    "category": "销售零售与电商",
+    "median_pay_annual": 100000,
+    "num_jobs": 1500000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "医药代表",
+    "slug": "yiyao-daibiao",
+    "category": "销售零售与电商",
+    "median_pay_annual": 150000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "客服专员",
+    "slug": "kefu-zhuanyuan",
+    "category": "销售零售与电商",
+    "median_pay_annual": 55000,
+    "num_jobs": 8000000,
+    "education": "高中/中专",
+    "outlook_pct": -2,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "商场导购",
+    "slug": "shangchang-daogou",
+    "category": "销售零售与电商",
+    "median_pay_annual": 50000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": -1,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "批发商",
+    "slug": "pifa-shang",
+    "category": "销售零售与电商",
+    "median_pay_annual": 120000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "市场营销经理",
+    "slug": "shichang-yingxiao-jingli",
+    "category": "销售零售与电商",
+    "median_pay_annual": 200000,
+    "num_jobs": 1000000,
+    "education": "本科",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "渠道经理",
+    "slug": "qudao-jingli",
+    "category": "销售零售与电商",
+    "median_pay_annual": 160000,
+    "num_jobs": 500000,
+    "education": "本科",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "售后服务工程师",
+    "slug": "shouhou-fuwu-gongchengshi",
+    "category": "销售零售与电商",
+    "median_pay_annual": 90000,
+    "num_jobs": 2000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "电话销售",
+    "slug": "dianhua-xiaoshou",
+    "category": "销售零售与电商",
+    "median_pay_annual": 60000,
+    "num_jobs": 3000000,
+    "education": "高中/中专",
+    "outlook_pct": -5,
+    "outlook_desc": "下降"
+  },
+  {
+    "title": "商品陈列师",
+    "slug": "shangpin-chenlie-shi",
+    "category": "销售零售与电商",
+    "median_pay_annual": 70000,
+    "num_jobs": 300000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "采购员",
+    "slug": "caigou-yuan",
+    "category": "销售零售与电商",
+    "median_pay_annual": 80000,
+    "num_jobs": 3000000,
+    "education": "大专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "家政服务员",
+    "slug": "jiazheng-fuwuyuan",
+    "category": "个人与生活服务",
+    "median_pay_annual": 55000,
+    "num_jobs": 25000000,
+    "education": "初中及以下",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "月嫂",
+    "slug": "yuesao",
+    "category": "个人与生活服务",
+    "median_pay_annual": 120000,
+    "num_jobs": 3000000,
+    "education": "初中及以下",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "养老护理员",
+    "slug": "yanglao-huliyuan",
+    "category": "个人与生活服务",
+    "median_pay_annual": 50000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "美容师",
+    "slug": "meirongshi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 65000,
+    "num_jobs": 5000000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "美发师",
+    "slug": "meifashi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 70000,
+    "num_jobs": 6000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "健身教练",
+    "slug": "jianshen-jiaolian",
+    "category": "个人与生活服务",
+    "median_pay_annual": 90000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "陪诊师",
+    "slug": "peizhen-shi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 72000,
+    "num_jobs": 500000,
+    "education": "高中/中专",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "宠物伴宠师",
+    "slug": "chongwu-banchong-shi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 60000,
+    "num_jobs": 200000,
+    "education": "高中/中专",
+    "outlook_pct": 25,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "保安员",
+    "slug": "baoan-yuan",
+    "category": "个人与生活服务",
+    "median_pay_annual": 48000,
+    "num_jobs": 5000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "物业管理员",
+    "slug": "wuye-guanliyuan",
+    "category": "个人与生活服务",
+    "median_pay_annual": 55000,
+    "num_jobs": 6000000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "保洁员",
+    "slug": "baojie-yuan",
+    "category": "个人与生活服务",
+    "median_pay_annual": 40000,
+    "num_jobs": 10000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "搬家工人",
+    "slug": "banjia-gongren",
+    "category": "个人与生活服务",
+    "median_pay_annual": 60000,
+    "num_jobs": 2000000,
+    "education": "初中及以下",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "婚礼策划师",
+    "slug": "hunli-cehuashi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 90000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "育婴师",
+    "slug": "yuyingshi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 84000,
+    "num_jobs": 2000000,
+    "education": "高中/中专",
+    "outlook_pct": 2,
+    "outlook_desc": "平均水平"
+  },
+  {
+    "title": "宠物医生",
+    "slug": "chongwu-yisheng",
+    "category": "个人与生活服务",
+    "median_pay_annual": 120000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "殡仪师",
+    "slug": "binyishi",
+    "category": "个人与生活服务",
+    "median_pay_annual": 70000,
+    "num_jobs": 200000,
+    "education": "高中/中专",
+    "outlook_pct": 0,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "光伏电站运维员",
+    "slug": "guangfu-dianzhan-yunweiyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 80000,
+    "num_jobs": 500000,
+    "education": "大专",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "风电工程师",
+    "slug": "fengdian-gongchengshi",
+    "category": "新能源与环保",
+    "median_pay_annual": 150000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 10,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "储能电站运维管理员",
+    "slug": "chuneng-dianzhan-yunwei-guanliyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 100000,
+    "num_jobs": 200000,
+    "education": "大专",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "碳资产管理师",
+    "slug": "tan-zichan-guanlishi",
+    "category": "新能源与环保",
+    "median_pay_annual": 160000,
+    "num_jobs": 50000,
+    "education": "本科",
+    "outlook_pct": 25,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "新能源汽车维修技师",
+    "slug": "xinnengyuan-qiche-weixiu-jishi",
+    "category": "新能源与环保",
+    "median_pay_annual": 90000,
+    "num_jobs": 800000,
+    "education": "大专",
+    "outlook_pct": 15,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "环境监测工程师",
+    "slug": "huanjing-jiance-gongchengshi",
+    "category": "新能源与环保",
+    "median_pay_annual": 110000,
+    "num_jobs": 300000,
+    "education": "本科",
+    "outlook_pct": 5,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "垃圾分类管理员",
+    "slug": "laji-fenlei-guanliyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 45000,
+    "num_jobs": 1000000,
+    "education": "初中及以下",
+    "outlook_pct": 3,
+    "outlook_desc": "高于平均"
+  },
+  {
+    "title": "污水处理工",
+    "slug": "wushui-chuli-gong",
+    "category": "新能源与环保",
+    "median_pay_annual": 60000,
+    "num_jobs": 500000,
+    "education": "高中/中专",
+    "outlook_pct": 1,
+    "outlook_desc": "基本不变"
+  },
+  {
+    "title": "电能质量管理员",
+    "slug": "dianneng-zhiliang-guanliyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 100000,
+    "num_jobs": 100000,
+    "education": "大专",
+    "outlook_pct": 10,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "充电桩安装维护员",
+    "slug": "chongdianzhuang-anzhuang-weihuyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 65000,
+    "num_jobs": 500000,
+    "education": "高中/中专",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "氢能技术员",
+    "slug": "qingneng-jishuyuan",
+    "category": "新能源与环保",
+    "median_pay_annual": 120000,
+    "num_jobs": 50000,
+    "education": "本科",
+    "outlook_pct": 20,
+    "outlook_desc": "远高于平均"
+  },
+  {
+    "title": "新能源研发工程师",
+    "slug": "xinnengyuan-yanfa-gongchengshi",
+    "category": "新能源与环保",
+    "median_pay_annual": 200000,
+    "num_jobs": 200000,
+    "education": "硕士",
+    "outlook_pct": 10,
+    "outlook_desc": "远高于平均"
+  }
+]

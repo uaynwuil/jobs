@@ -1,0 +1,1454 @@
+[
+  {
+    "slug": "zhuangpei-gongren",
+    "title": "装配工人",
+    "exposure": 3,
+    "rationale": "主要从事体力劳动的流水线装配工作，AI难以替代手工操作，但自动化产线正在减少岗位需求。"
+  },
+  {
+    "slug": "hanjie-gong",
+    "title": "焊接工",
+    "exposure": 2,
+    "rationale": "焊接需要手工技能和现场操作，AI影响有限，但焊接机器人在标准化场景中逐步替代人工。"
+  },
+  {
+    "slug": "shukong-jichuang-caozuoyuan",
+    "title": "数控机床操作员",
+    "exposure": 4,
+    "rationale": "需要操作物理设备，但编程和参数优化部分可被AI辅助，属于人机协作型岗位。"
+  },
+  {
+    "slug": "zhijian-yuan",
+    "title": "质检员",
+    "exposure": 5,
+    "rationale": "视觉检测AI已大规模应用于制造业质检，但复杂产品仍需人工判断。"
+  },
+  {
+    "slug": "gongchang-zhuguan",
+    "title": "工厂主管",
+    "exposure": 5,
+    "rationale": "管理岗位需要人际沟通和现场决策，AI可辅助排产和数据分析但无法替代管理职能。"
+  },
+  {
+    "slug": "fangzhi-gongren",
+    "title": "纺织工人",
+    "exposure": 3,
+    "rationale": "传统劳动密集型岗位，自动化纺织设备持续替代人工，但仍需大量人力处理非标工序。"
+  },
+  {
+    "slug": "shipin-jiagong-gongren",
+    "title": "食品加工工人",
+    "exposure": 2,
+    "rationale": "食品加工涉及大量手工操作和卫生监控，AI渗透率较低。"
+  },
+  {
+    "slug": "muju-shejishi",
+    "title": "模具设计师",
+    "exposure": 7,
+    "rationale": "模具设计属于数字化工作，CAD/CAE软件结合AI可大幅提升效率，设计环节AI影响显著。"
+  },
+  {
+    "slug": "dianzi-zhuangpei-gong",
+    "title": "电子装配工",
+    "exposure": 3,
+    "rationale": "电子产品装配线自动化程度不断提高，但微小精密元件仍需人工操作。"
+  },
+  {
+    "slug": "gongye-gongchengshi",
+    "title": "工业工程师",
+    "exposure": 7,
+    "rationale": "工业工程涉及大量数据分析和流程优化，AI工具可显著提升生产效率分析能力。"
+  },
+  {
+    "slug": "jixie-gongchengshi",
+    "title": "机械工程师",
+    "exposure": 6,
+    "rationale": "机械设计中AI辅助建模和仿真快速发展，但实际工程判断和现场调试仍需人工。"
+  },
+  {
+    "slug": "qiche-zhuangpei-gong",
+    "title": "汽车装配工",
+    "exposure": 3,
+    "rationale": "汽车产线自动化率高但总装环节仍需大量人工，新能源汽车转型带来结构性变化。"
+  },
+  {
+    "slug": "gongye-jiqiren-yunweiyuan",
+    "title": "工业机器人运维员",
+    "exposure": 5,
+    "rationale": "新兴岗位，需要现场维护物理设备，但诊断分析部分可借助AI辅助。"
+  },
+  {
+    "slug": "huagong-caozuoyuan",
+    "title": "化工操作员",
+    "exposure": 3,
+    "rationale": "化工生产需要现场值守和安全操控，AI主要用于工艺参数优化和预警。"
+  },
+  {
+    "slug": "yinshua-gong",
+    "title": "印刷工",
+    "exposure": 4,
+    "rationale": "数字印刷技术和AI排版设计减少了传统印刷工的需求。"
+  },
+  {
+    "slug": "baozhuang-gong",
+    "title": "包装工",
+    "exposure": 2,
+    "rationale": "重复性体力劳动，自动包装线替代趋势明显但小批量仍需人工。"
+  },
+  {
+    "slug": "dianqi-gongchengshi",
+    "title": "电气工程师",
+    "exposure": 6,
+    "rationale": "电气设计中AI辅助仿真和优化日益普及，但现场调试和非标设计仍依赖工程师经验。"
+  },
+  {
+    "slug": "zhizaoye-jingli",
+    "title": "制造业经理",
+    "exposure": 6,
+    "rationale": "管理层需要综合决策能力，AI可辅助数据驱动决策但无法替代领导力和人际协调。"
+  },
+  {
+    "slug": "gongyi-gongchengshi",
+    "title": "工艺工程师",
+    "exposure": 7,
+    "rationale": "工艺优化高度依赖数据分析，AI在参数调优和缺陷分析方面表现突出。"
+  },
+  {
+    "slug": "shebei-weixiu-jigong",
+    "title": "设备维修技工",
+    "exposure": 3,
+    "rationale": "现场维修需要动手能力和经验判断，AI预测性维护可辅助但无法替代实际操作。"
+  },
+  {
+    "slug": "cangku-guanliyuan",
+    "title": "仓库管理员",
+    "exposure": 4,
+    "rationale": "仓储物流自动化和AI调度系统正在改变仓管工作方式，但实物管理仍需人工。"
+  },
+  {
+    "slug": "zhusi-gong",
+    "title": "注塑工",
+    "exposure": 3,
+    "rationale": "注塑机操作逐步自动化，但换模和品质调整仍需技工经验。"
+  },
+  {
+    "slug": "ruanjian-gongchengshi",
+    "title": "软件工程师",
+    "exposure": 9,
+    "rationale": "软件开发是纯数字化工作，AI编程助手已能生成大量代码，行业面临重大重构。"
+  },
+  {
+    "slug": "qianduan-kaifa-gongchengshi",
+    "title": "前端开发工程师",
+    "exposure": 9,
+    "rationale": "前端开发完全在电脑上完成，AI代码生成和设计转代码工具快速进步。"
+  },
+  {
+    "slug": "shuju-fenxishi",
+    "title": "数据分析师",
+    "exposure": 8,
+    "rationale": "数据分析是AI最擅长的领域之一，自然语言查询数据库和自动报表生成已成现实。"
+  },
+  {
+    "slug": "ai-gongchengshi",
+    "title": "AI工程师",
+    "exposure": 8,
+    "rationale": "虽然AI工程师本身开发AI，但AI也在加速自身开发流程，AutoML等技术降低门槛。"
+  },
+  {
+    "slug": "shuju-biaozhuyuan",
+    "title": "数据标注员",
+    "exposure": 6,
+    "rationale": "AI训练依赖大量标注数据，但自动标注和主动学习技术正在减少人工标注需求。"
+  },
+  {
+    "slug": "yunjisuan-gongchengshi",
+    "title": "云计算工程师",
+    "exposure": 7,
+    "rationale": "云基础设施管理日益自动化，但架构设计和故障排查仍需专业判断。"
+  },
+  {
+    "slug": "wangluo-anquan-gongchengshi",
+    "title": "网络安全工程师",
+    "exposure": 7,
+    "rationale": "AI既是安全工具也是攻击手段，安全领域人机协作需求强烈。"
+  },
+  {
+    "slug": "chanpin-jingli",
+    "title": "产品经理",
+    "exposure": 7,
+    "rationale": "产品设计涉及用户洞察和商业判断，AI可辅助数据分析和原型设计但核心决策仍靠人。"
+  },
+  {
+    "slug": "ui-shejishi",
+    "title": "UI设计师",
+    "exposure": 8,
+    "rationale": "视觉设计是AI图像生成技术的核心应用领域，AI已能完成大部分基础设计工作。"
+  },
+  {
+    "slug": "ceshi-gongchengshi",
+    "title": "测试工程师",
+    "exposure": 8,
+    "rationale": "自动化测试和AI驱动的测试用例生成大幅提升效率，手动测试岗位持续减少。"
+  },
+  {
+    "slug": "yunwei-gongchengshi",
+    "title": "运维工程师",
+    "exposure": 7,
+    "rationale": "AIOps和自动化运维工具正在重塑运维工作，但复杂故障处理仍需人工介入。"
+  },
+  {
+    "slug": "shujuku-guanliyuan",
+    "title": "数据库管理员",
+    "exposure": 7,
+    "rationale": "数据库管理日益自动化，云数据库服务减少了传统DBA的需求。"
+  },
+  {
+    "slug": "dashuju-gongchengshi",
+    "title": "大数据工程师",
+    "exposure": 8,
+    "rationale": "大数据处理管道构建和优化属于纯数字化工作，AI正在简化ETL流程。"
+  },
+  {
+    "slug": "it-xiangmu-jingli",
+    "title": "IT项目经理",
+    "exposure": 7,
+    "rationale": "项目管理需要沟通协调，AI可辅助进度追踪和风险预警但难以替代人际领导。"
+  },
+  {
+    "slug": "qianrushi-kaifa-gongchengshi",
+    "title": "嵌入式开发工程师",
+    "exposure": 7,
+    "rationale": "嵌入式开发涉及硬件交互，但代码编写部分同样受AI编程助手影响。"
+  },
+  {
+    "slug": "suanfa-gongchengshi",
+    "title": "算法工程师",
+    "exposure": 8,
+    "rationale": "算法设计和优化是高度数字化的工作，AI辅助算法搜索和模型架构设计发展迅速。"
+  },
+  {
+    "slug": "shengchengshi-ai-yingyongyuan",
+    "title": "生成式AI应用员",
+    "exposure": 8,
+    "rationale": "新兴职业，工作本身就是运用AI工具，但提示工程和应用集成仍需人类创造力。"
+  },
+  {
+    "slug": "linchuang-yisheng",
+    "title": "临床医生",
+    "exposure": 4,
+    "rationale": "临床诊疗需要面对面诊察和手术操作，AI辅助诊断可提升效率但无法替代医患互动。"
+  },
+  {
+    "slug": "hushi",
+    "title": "护士",
+    "exposure": 3,
+    "rationale": "护理工作高度依赖人际关怀和物理操作，AI影响主要在文档记录和监测预警方面。"
+  },
+  {
+    "slug": "yaojishi",
+    "title": "药剂师",
+    "exposure": 6,
+    "rationale": "药物相互作用检查和处方审核可被AI高效完成，但面对面用药指导仍需药剂师。"
+  },
+  {
+    "slug": "zhongyishi",
+    "title": "中医师",
+    "exposure": 4,
+    "rationale": "中医诊疗强调望闻问切和个体化辨证，AI辅助但文化和经验性要素难以被替代。"
+  },
+  {
+    "slug": "yake-yisheng",
+    "title": "牙科医生",
+    "exposure": 3,
+    "rationale": "口腔治疗需要精细手工操作，AI主要辅助影像分析和治疗方案设计。"
+  },
+  {
+    "slug": "fangsheke-yisheng",
+    "title": "放射科医生",
+    "exposure": 7,
+    "rationale": "医学影像分析是AI最成熟的医疗应用之一，AI读片准确率已接近甚至超越人类。"
+  },
+  {
+    "slug": "yixue-jianyan-jishi",
+    "title": "医学检验技师",
+    "exposure": 5,
+    "rationale": "检验自动化程度已很高，AI在结果解读和异常标记方面持续渗透。"
+  },
+  {
+    "slug": "kangfu-zhiliaoshi",
+    "title": "康复治疗师",
+    "exposure": 3,
+    "rationale": "康复治疗需要一对一的身体接触和运动指导，AI影响主要在方案制定和进度评估。"
+  },
+  {
+    "slug": "gonggong-weisheng-yishi",
+    "title": "公共卫生医师",
+    "exposure": 6,
+    "rationale": "流行病学分析和疾病监测数据处理可被AI加速，但政策制定和现场调查需要人工。"
+  },
+  {
+    "slug": "mazuishi",
+    "title": "麻醉师",
+    "exposure": 4,
+    "rationale": "麻醉需要实时监测和应急处理的物理在场，AI辅助监测但关键决策仍靠医师。"
+  },
+  {
+    "slug": "waike-yisheng",
+    "title": "外科医生",
+    "exposure": 3,
+    "rationale": "外科手术是高度物理性的精密操作，手术机器人辅助但操控决策仍完全依赖人类。"
+  },
+  {
+    "slug": "hulianwang-yisheng",
+    "title": "互联网医生",
+    "exposure": 7,
+    "rationale": "在线问诊本身就是数字化服务，AI预诊断和智能分诊正在改变远程医疗模式。"
+  },
+  {
+    "slug": "shuimian-jiankang-guanlishi",
+    "title": "睡眠健康管理师",
+    "exposure": 5,
+    "rationale": "新兴职业，需要面对面健康干预，但数据分析和方案制定可借助AI工具。"
+  },
+  {
+    "slug": "yiliao-qixie-jishuyuan",
+    "title": "医疗器械技术员",
+    "exposure": 4,
+    "rationale": "设备维护需要现场操作，但故障诊断和预测维护可利用AI技术。"
+  },
+  {
+    "slug": "huliyuan",
+    "title": "护理员",
+    "exposure": 2,
+    "rationale": "基础护理工作以体力劳动和人文关怀为主，AI几乎无法替代直接的照护服务。"
+  },
+  {
+    "slug": "yingyangshi",
+    "title": "营养师",
+    "exposure": 6,
+    "rationale": "膳食方案制定和营养分析可被AI高效完成，但个性化咨询和行为干预需要人际互动。"
+  },
+  {
+    "slug": "xinli-zixunshi",
+    "title": "心理咨询师",
+    "exposure": 5,
+    "rationale": "心理咨询核心在于人际共情和治疗关系，AI聊天机器人可做初筛但深度治疗难以替代。"
+  },
+  {
+    "slug": "xiaoxue-jiaoshi",
+    "title": "小学教师",
+    "exposure": 6,
+    "rationale": "教学内容准备和评估可借助AI，但课堂管理和儿童教育需要人际互动和情感引导。"
+  },
+  {
+    "slug": "zhongxue-jiaoshi",
+    "title": "中学教师",
+    "exposure": 6,
+    "rationale": "AI可辅助个性化学习和自动批改，但学科教学和青少年教育仍高度依赖教师。"
+  },
+  {
+    "slug": "daxue-jiaoshou",
+    "title": "大学教授",
+    "exposure": 7,
+    "rationale": "学术研究和论文写作是AI高度渗透的领域，但原创性研究和指导学生仍需教授。"
+  },
+  {
+    "slug": "youeryuan-jiaoshi",
+    "title": "幼儿园教师",
+    "exposure": 3,
+    "rationale": "幼儿教育以照护和情感陪伴为核心，AI工具使用空间极为有限。"
+  },
+  {
+    "slug": "zhiye-peixunshi",
+    "title": "职业培训师",
+    "exposure": 7,
+    "rationale": "培训内容开发和课程设计可被AI大幅加速，但现场授课和实操指导仍需人工。"
+  },
+  {
+    "slug": "teshu-jiaoyu-jiaoshi",
+    "title": "特殊教育教师",
+    "exposure": 4,
+    "rationale": "特殊教育需要高度个性化的一对一互动，AI可提供辅助工具但核心教学难以替代。"
+  },
+  {
+    "slug": "zaixian-jiaoyu-jiangshi",
+    "title": "在线教育讲师",
+    "exposure": 8,
+    "rationale": "在线教育内容制作和授课是数字化工作，AI生成课程内容的能力快速提升。"
+  },
+  {
+    "slug": "tiyu-jiaoshi",
+    "title": "体育教师",
+    "exposure": 2,
+    "rationale": "体育教学需要现场示范和体能训练指导，AI影响极为有限。"
+  },
+  {
+    "slug": "yinyue-jiaoshi",
+    "title": "音乐教师",
+    "exposure": 4,
+    "rationale": "音乐教育需要现场示范和情感表达指导，但AI作曲和音乐理论教学有渗透空间。"
+  },
+  {
+    "slug": "jiaoyu-xingzheng-renyuan",
+    "title": "教育行政人员",
+    "exposure": 6,
+    "rationale": "行政管理中的文档处理和数据分析可被AI提效，但组织协调和政策执行需要人工。"
+  },
+  {
+    "slug": "daxue-fudaoyuan",
+    "title": "大学辅导员",
+    "exposure": 5,
+    "rationale": "学生管理和心理辅导需要人际沟通，AI可辅助信息管理但关怀功能难以替代。"
+  },
+  {
+    "slug": "zaojiao-jiaoshi",
+    "title": "早教教师",
+    "exposure": 3,
+    "rationale": "早期教育以互动游戏和感官训练为主，高度依赖人际接触。"
+  },
+  {
+    "slug": "jiaxiao-jiaolian",
+    "title": "驾校教练",
+    "exposure": 3,
+    "rationale": "自动驾驶技术长期可能减少驾照需求，但当前教学仍需车内实操指导。"
+  },
+  {
+    "slug": "peixun-jigou-guanlizhe",
+    "title": "培训机构管理者",
+    "exposure": 6,
+    "rationale": "管理工作涉及运营决策和人员管理，AI可辅助数据分析但核心管理职能难以替代。"
+  },
+  {
+    "slug": "keyan-zhuli",
+    "title": "科研助理",
+    "exposure": 7,
+    "rationale": "文献检索、数据处理和论文撰写是AI高度擅长的领域，科研辅助工作面临显著影响。"
+  },
+  {
+    "slug": "tushuguan-yuan",
+    "title": "图书馆员",
+    "exposure": 6,
+    "rationale": "信息检索和文献管理正被AI搜索引擎和推荐系统大幅改变。"
+  },
+  {
+    "slug": "yinhang-guiyuan",
+    "title": "银行柜员",
+    "exposure": 8,
+    "rationale": "银行柜台业务大量转向线上和自助终端，AI客服和智能柜员机持续替代人工。"
+  },
+  {
+    "slug": "licai-guwen",
+    "title": "理财顾问",
+    "exposure": 7,
+    "rationale": "智能投顾和AI理财规划工具快速发展，但高净值客户仍需要人际信任和定制服务。"
+  },
+  {
+    "slug": "zhengquan-fenxishi",
+    "title": "证券分析师",
+    "exposure": 9,
+    "rationale": "证券研究和报告撰写是纯数字化工作，AI在数据分析和趋势预测方面能力极强。"
+  },
+  {
+    "slug": "baoxian-dailiren",
+    "title": "保险代理人",
+    "exposure": 6,
+    "rationale": "互联网保险和AI精准推荐正在减少对传统保险代理的依赖，但复杂险种仍需人工。"
+  },
+  {
+    "slug": "fengkong-zhuanyuan",
+    "title": "风控专员",
+    "exposure": 8,
+    "rationale": "风险评估和信用审核高度依赖数据分析，AI风控模型已广泛应用于金融行业。"
+  },
+  {
+    "slug": "kuaiji",
+    "title": "会计",
+    "exposure": 8,
+    "rationale": "记账、报表和税务计算是高度结构化的数字工作，AI财务软件正在大幅替代基础会计。"
+  },
+  {
+    "slug": "shenji-shi",
+    "title": "审计师",
+    "exposure": 7,
+    "rationale": "审计涉及大量数据核查和文档审阅，AI可自动完成大部分常规审计程序。"
+  },
+  {
+    "slug": "jijin-jingli",
+    "title": "基金经理",
+    "exposure": 8,
+    "rationale": "量化交易和AI投资决策系统日益成熟，基金管理的核心价值正在被算法挑战。"
+  },
+  {
+    "slug": "xindai-yuan",
+    "title": "信贷员",
+    "exposure": 7,
+    "rationale": "信贷审批和风险评估已大量采用AI模型，传统信贷员岗位持续萎缩。"
+  },
+  {
+    "slug": "jinrong-keji-gongchengshi",
+    "title": "金融科技工程师",
+    "exposure": 8,
+    "rationale": "金融科技开发本身是纯数字化工作，AI编程工具加速了开发效率。"
+  },
+  {
+    "slug": "jingsuan-shi",
+    "title": "精算师",
+    "exposure": 8,
+    "rationale": "精算计算和模型构建是高度数学化的数字工作，AI在统计建模方面能力极强。"
+  },
+  {
+    "slug": "touzi-yinhang-fenxishi",
+    "title": "投资银行分析师",
+    "exposure": 9,
+    "rationale": "财务建模、估值分析和报告撰写完全在电脑上完成，AI已能辅助大部分分析工作。"
+  },
+  {
+    "slug": "yinhang-kehu-jingli",
+    "title": "银行客户经理",
+    "exposure": 6,
+    "rationale": "客户关系维护需要人际技能，但AI客户画像和营销推荐正在改变工作方式。"
+  },
+  {
+    "slug": "chuna",
+    "title": "出纳",
+    "exposure": 8,
+    "rationale": "现金管理和基础财务操作高度标准化，电子支付和AI系统大幅减少出纳需求。"
+  },
+  {
+    "slug": "shuiwu-shi",
+    "title": "税务师",
+    "exposure": 7,
+    "rationale": "税务计算和申报是规则明确的数字化工作，AI税务软件正在简化大量税务工作。"
+  },
+  {
+    "slug": "jianzhu-gongren",
+    "title": "建筑工人",
+    "exposure": 1,
+    "rationale": "建筑施工是重体力的户外工作，AI影响极小，但劳动力老龄化导致从业人数下降。"
+  },
+  {
+    "slug": "tumu-gongchengshi",
+    "title": "土木工程师",
+    "exposure": 6,
+    "rationale": "结构设计和计算可借助AI优化，但现场工程决策和项目管理需要经验判断。"
+  },
+  {
+    "slug": "jianzhu-shejishi",
+    "title": "建筑设计师",
+    "exposure": 8,
+    "rationale": "建筑方案设计和渲染是数字化工作，AI辅助设计和参数化建模快速发展。"
+  },
+  {
+    "slug": "zhuangxiu-gongren",
+    "title": "装修工人",
+    "exposure": 1,
+    "rationale": "室内装修需要现场手工操作，AI几乎无法渗透这一高度物理性的工作。"
+  },
+  {
+    "slug": "diangong",
+    "title": "电工",
+    "exposure": 2,
+    "rationale": "电气安装和维修需要现场操作和安全意识，AI影响仅限于智能电气系统的诊断辅助。"
+  },
+  {
+    "slug": "shuinuan-gong",
+    "title": "水暖工",
+    "exposure": 1,
+    "rationale": "管道安装和维修是纯粹的手工技能工作，AI几乎没有应用场景。"
+  },
+  {
+    "slug": "jianli-gongchengshi",
+    "title": "监理工程师",
+    "exposure": 5,
+    "rationale": "工程监理需要现场巡查和质量判断，AI可辅助数据监控但无法替代现场工作。"
+  },
+  {
+    "slug": "bim-gongchengshi",
+    "title": "BIM工程师",
+    "exposure": 7,
+    "rationale": "BIM建模和协调完全在电脑上完成，AI正在加速模型生成和冲突检测。"
+  },
+  {
+    "slug": "gongcheng-zaojia-shi",
+    "title": "工程造价师",
+    "exposure": 7,
+    "rationale": "工程量计算和成本估算是数据密集型工作，AI造价软件正在大幅提升效率。"
+  },
+  {
+    "slug": "gangjin-gong",
+    "title": "钢筋工",
+    "exposure": 1,
+    "rationale": "钢筋绑扎和安装是纯体力劳动，AI几乎无法介入。"
+  },
+  {
+    "slug": "hunningtu-gong",
+    "title": "混凝土工",
+    "exposure": 1,
+    "rationale": "混凝土浇筑和振捣是现场体力工作，自动化程度极低。"
+  },
+  {
+    "slug": "celiang-yuan",
+    "title": "测量员",
+    "exposure": 5,
+    "rationale": "传统测量被GPS和无人机航测替代，但现场定位放线仍需人工操作。"
+  },
+  {
+    "slug": "qizhongji-caozuoyuan",
+    "title": "起重机操作员",
+    "exposure": 3,
+    "rationale": "大型设备操作需要现场判断和精确控制，远程自动化正在逐步发展。"
+  },
+  {
+    "slug": "fangdichan-jingjiren",
+    "title": "房地产经纪人",
+    "exposure": 6,
+    "rationale": "房产交易信息匹配和推荐可被AI优化，但实地看房和交易谈判仍需人工。"
+  },
+  {
+    "slug": "wuye-jingli",
+    "title": "物业经理",
+    "exposure": 5,
+    "rationale": "物业管理涉及现场协调和业主关系维护，智能物业系统可辅助但不能替代管理。"
+  },
+  {
+    "slug": "jianzhu-xiangmu-jingli",
+    "title": "建筑项目经理",
+    "exposure": 6,
+    "rationale": "项目管理需要多方协调和现场决策，AI可辅助进度和成本管控。"
+  },
+  {
+    "slug": "shinei-shejishi",
+    "title": "室内设计师",
+    "exposure": 8,
+    "rationale": "室内效果图设计和方案制作是数字化工作，AI渲染和设计生成工具快速普及。"
+  },
+  {
+    "slug": "yuanlin-shejishi",
+    "title": "园林设计师",
+    "exposure": 7,
+    "rationale": "景观方案设计可借助AI生成和优化，但现场踏勘和植物配置需要专业经验。"
+  },
+  {
+    "slug": "huoche-siji",
+    "title": "货车司机",
+    "exposure": 3,
+    "rationale": "长途驾驶需要现场操控，自动驾驶卡车仍处于测试阶段，但长期趋势明确。"
+  },
+  {
+    "slug": "wangyueche-siji",
+    "title": "网约车司机",
+    "exposure": 3,
+    "rationale": "需要实时驾驶和乘客服务，Robotaxi发展但全面替代仍需较长时间。"
+  },
+  {
+    "slug": "waimai-qishou",
+    "title": "外卖骑手",
+    "exposure": 2,
+    "rationale": "外卖配送需要穿越复杂城市环境的即时物理操作，无人配送短期内难以全面替代。"
+  },
+  {
+    "slug": "kuaidi-yuan",
+    "title": "快递员",
+    "exposure": 3,
+    "rationale": "末端配送需要上门交接，AI主要优化路线规划和调度，但配送本身仍靠人力。"
+  },
+  {
+    "slug": "gongjiao-siji",
+    "title": "公交司机",
+    "exposure": 3,
+    "rationale": "城市公交自动驾驶试点逐步推进，但全面替代需要基础设施和法规配套。"
+  },
+  {
+    "slug": "ditie-siji",
+    "title": "地铁司机",
+    "exposure": 5,
+    "rationale": "地铁自动驾驶技术已较成熟（GoA4），多条无人驾驶线路已投入运营。"
+  },
+  {
+    "slug": "chuzuche-siji",
+    "title": "出租车司机",
+    "exposure": 3,
+    "rationale": "网约车和未来Robotaxi双重冲击，传统出租车司机数量持续萎缩。"
+  },
+  {
+    "slug": "feixingyuan",
+    "title": "飞行员",
+    "exposure": 4,
+    "rationale": "航空飞行需要现场操控和应急处理能力，AI自动驾驶辅助但核心操控仍靠飞行员。"
+  },
+  {
+    "slug": "chuanyuan",
+    "title": "船员",
+    "exposure": 3,
+    "rationale": "航海需要物理操作和现场应急，智能航运发展但全自动化船舶尚不成熟。"
+  },
+  {
+    "slug": "wuliu-guanliyuan",
+    "title": "物流管理员",
+    "exposure": 6,
+    "rationale": "供应链优化和调度属于数据密集型工作，AI物流系统正在大幅提升管理效率。"
+  },
+  {
+    "slug": "cangchu-wuliu-gongren",
+    "title": "仓储物流工人",
+    "exposure": 3,
+    "rationale": "仓库分拣和搬运逐步被自动化设备替代，但多数仓库仍以人力为主。"
+  },
+  {
+    "slug": "tielu-gongren",
+    "title": "铁路工人",
+    "exposure": 2,
+    "rationale": "铁路维护和运营涉及大量户外体力劳动和现场安全管理。"
+  },
+  {
+    "slug": "hangkong-chengwuyuan",
+    "title": "航空乘务员",
+    "exposure": 3,
+    "rationale": "空中服务需要面对面的人际互动和安全应急处理，AI影响极小。"
+  },
+  {
+    "slug": "jiaotong-diaoduyuan",
+    "title": "交通调度员",
+    "exposure": 6,
+    "rationale": "交通调度和路线优化是AI擅长的数据处理领域，智能调度系统正在普及。"
+  },
+  {
+    "slug": "zhineng-wanglian-qiche-ceshiyuan",
+    "title": "智能网联汽车测试员",
+    "exposure": 6,
+    "rationale": "新兴职业结合现场测试和数据分析，AI用于测试场景生成但实车测试仍需人工。"
+  },
+  {
+    "slug": "wurenj-caozuoyuan",
+    "title": "无人机操作员",
+    "exposure": 5,
+    "rationale": "无人机飞行需要操控技能和现场判断，AI辅助航线规划但操控决策靠人。"
+  },
+  {
+    "slug": "zhongzhiye-nongmin",
+    "title": "种植业农民",
+    "exposure": 1,
+    "rationale": "传统种植以体力劳动为主，AI影响限于大型农场的精准农业应用，对小农户几乎无影响。"
+  },
+  {
+    "slug": "xumu-yangzhiyuan",
+    "title": "畜牧养殖员",
+    "exposure": 2,
+    "rationale": "畜牧养殖需要日常现场喂养和管理，智能养殖系统在大型场可辅助监测。"
+  },
+  {
+    "slug": "yumin",
+    "title": "渔民",
+    "exposure": 1,
+    "rationale": "捕捞和水产养殖是高度依赖自然环境的体力劳动，AI渗透率极低。"
+  },
+  {
+    "slug": "linye-gongren",
+    "title": "林业工人",
+    "exposure": 1,
+    "rationale": "造林、抚育和采伐是户外体力工作，AI主要用于林业资源遥感监测。"
+  },
+  {
+    "slug": "nongji-caozuoyuan",
+    "title": "农机操作员",
+    "exposure": 3,
+    "rationale": "农机操作逐步向智能化转型，自动驾驶农机在大型农田已有应用。"
+  },
+  {
+    "slug": "nongye-jishuyuan",
+    "title": "农业技术员",
+    "exposure": 5,
+    "rationale": "农技推广涉及现场指导和田间试验，但AI在病虫害识别和种植方案优化方面进步显著。"
+  },
+  {
+    "slug": "shouyi",
+    "title": "兽医",
+    "exposure": 4,
+    "rationale": "动物诊疗需要现场检查和手术操作，AI辅助诊断但物理治疗难以替代。"
+  },
+  {
+    "slug": "nongchanpin-jiagong-gongren",
+    "title": "农产品加工工人",
+    "exposure": 2,
+    "rationale": "农产品初加工以手工分拣和操作为主，自动化程度逐步提升但总体偏低。"
+  },
+  {
+    "slug": "huahui-yuanyishi",
+    "title": "花卉园艺师",
+    "exposure": 2,
+    "rationale": "园艺种植和养护是高度实践性的手工工作，AI影响仅限于品种推荐和病害识别。"
+  },
+  {
+    "slug": "chaye-zhongzhi-gong",
+    "title": "茶叶种植工",
+    "exposure": 1,
+    "rationale": "茶叶种植和采摘是季节性的户外体力劳动，AI几乎无法介入。"
+  },
+  {
+    "slug": "shuichan-yangzhiyuan",
+    "title": "水产养殖员",
+    "exposure": 2,
+    "rationale": "水产养殖需要日常现场管理，智能养殖系统可监测水质但日常操作仍靠人力。"
+  },
+  {
+    "slug": "nongyao-zhibaoyuan",
+    "title": "农药植保员",
+    "exposure": 3,
+    "rationale": "植保无人机正在替代人工喷洒，但配药和病害判断仍需经验。"
+  },
+  {
+    "slug": "liangshi-shougou-yuan",
+    "title": "粮食收购员",
+    "exposure": 4,
+    "rationale": "粮食收购和定级可利用AI品质检测，但现场收购和物流协调仍需人工。"
+  },
+  {
+    "slug": "guoshu-zhongzhi-gong",
+    "title": "果树种植工",
+    "exposure": 1,
+    "rationale": "果树种植和采摘是季节性的户外体力劳动，机械化和AI渗透率极低。"
+  },
+  {
+    "slug": "nongye-jingliren",
+    "title": "农业经理人",
+    "exposure": 5,
+    "rationale": "农业企业管理涉及经营决策和供应链管理，AI可辅助数据分析和市场预测。"
+  },
+  {
+    "slug": "nongcun-dianshang-yunying",
+    "title": "农村电商运营",
+    "exposure": 7,
+    "rationale": "农产品电商运营是纯数字化工作，AI可辅助文案、图片和客服但运营策略仍需人工。"
+  },
+  {
+    "slug": "qiye-guanli-zixun-guwen",
+    "title": "企业管理咨询顾问",
+    "exposure": 8,
+    "rationale": "管理咨询以分析报告和方案设计为主，属于高度数字化的知识工作，AI冲击显著。"
+  },
+  {
+    "slug": "renli-ziyuan-guanlishi",
+    "title": "人力资源管理师",
+    "exposure": 7,
+    "rationale": "招聘筛选和绩效分析可被AI大幅优化，但面试评估和员工关系管理需要人际技能。"
+  },
+  {
+    "slug": "shichang-diaoyan-fenxishi",
+    "title": "市场调研分析师",
+    "exposure": 8,
+    "rationale": "数据采集和分析是AI强项，问卷设计和消费者洞察提炼部分仍需人类创造力。"
+  },
+  {
+    "slug": "guanggao-cehua",
+    "title": "广告策划",
+    "exposure": 8,
+    "rationale": "广告创意和文案撰写是AI生成式内容的核心应用场景，行业已深受影响。"
+  },
+  {
+    "slug": "fanyi",
+    "title": "翻译",
+    "exposure": 9,
+    "rationale": "机器翻译和AI同传技术飞速发展，基础翻译工作已被大量替代。"
+  },
+  {
+    "slug": "zhishi-chanquan-daili",
+    "title": "知识产权代理",
+    "exposure": 7,
+    "rationale": "专利文书撰写和检索是结构化的文本工作，AI法律工具正在快速渗透。"
+  },
+  {
+    "slug": "shangwu-mishu",
+    "title": "商务秘书",
+    "exposure": 8,
+    "rationale": "日程管理、文档整理和邮件撰写是AI办公助手的核心功能，传统秘书需求下降。"
+  },
+  {
+    "slug": "pinpai-jingli",
+    "title": "品牌经理",
+    "exposure": 7,
+    "rationale": "品牌策略涉及市场洞察和创意决策，AI可辅助数据分析和内容生成但战略判断靠人。"
+  },
+  {
+    "slug": "gongguan-zhuanyuan",
+    "title": "公关专员",
+    "exposure": 7,
+    "rationale": "公关传播和危机管理涉及人际沟通和媒体关系，AI可辅助舆情监测和稿件撰写。"
+  },
+  {
+    "slug": "xingzheng-guanli-renyuan",
+    "title": "行政管理人员",
+    "exposure": 6,
+    "rationale": "行政事务中的文档处理和流程管理可被AI简化，但组织协调和对外沟通仍需人工。"
+  },
+  {
+    "slug": "xiangmu-guanli-zhuanyuan",
+    "title": "项目管理专员",
+    "exposure": 6,
+    "rationale": "项目跟踪和资源协调部分可被AI工具优化，但跨团队沟通和风险决策靠人。"
+  },
+  {
+    "slug": "caigou-jingli",
+    "title": "采购经理",
+    "exposure": 6,
+    "rationale": "供应商评估和价格分析可被AI辅助，但商务谈判和关系维护需要人际技能。"
+  },
+  {
+    "slug": "shangwu-tuozhan-jingli",
+    "title": "商务拓展经理",
+    "exposure": 6,
+    "rationale": "商务拓展以关系建设和机会识别为核心，AI可辅助线索筛选但核心工作依赖人际。"
+  },
+  {
+    "slug": "lietou-guwen",
+    "title": "猎头顾问",
+    "exposure": 7,
+    "rationale": "人才搜索和匹配可被AI优化，但候选人评估和客户关系管理仍需人际判断。"
+  },
+  {
+    "slug": "qiye-peixunshi",
+    "title": "企业培训师",
+    "exposure": 7,
+    "rationale": "培训内容设计可借助AI加速，但现场授课和互动引导需要人际技能。"
+  },
+  {
+    "slug": "fawu-zhuanyuan",
+    "title": "法务专员",
+    "exposure": 7,
+    "rationale": "合同审核和法律文书撰写是结构化文本工作，AI法律工具正在快速发展。"
+  },
+  {
+    "slug": "zhongshi-chushi",
+    "title": "中式厨师",
+    "exposure": 1,
+    "rationale": "烹饪需要现场手工操作和味觉判断，AI几乎无法替代厨师的核心技艺。"
+  },
+  {
+    "slug": "xishi-chushi",
+    "title": "西式厨师",
+    "exposure": 1,
+    "rationale": "西餐制作同样依赖现场操作和食材处理，AI影响极为有限。"
+  },
+  {
+    "slug": "canting-fuwuyuan",
+    "title": "餐厅服务员",
+    "exposure": 2,
+    "rationale": "餐厅服务需要面对面的人际互动，送餐机器人有局限性，主流仍靠人力。"
+  },
+  {
+    "slug": "jiudian-qiantai",
+    "title": "酒店前台",
+    "exposure": 5,
+    "rationale": "自助入住系统和AI客服正在替代部分前台功能，但高端服务仍需人工。"
+  },
+  {
+    "slug": "jiudian-guanli-jingli",
+    "title": "酒店管理经理",
+    "exposure": 5,
+    "rationale": "酒店管理涉及现场协调和客户关系，AI可辅助运营分析但管理决策靠人。"
+  },
+  {
+    "slug": "miandian-shi",
+    "title": "面点师",
+    "exposure": 1,
+    "rationale": "面点制作需要手工技巧和经验积累，是纯粹的手工艺工作。"
+  },
+  {
+    "slug": "tiaojiu-shi",
+    "title": "调酒师",
+    "exposure": 2,
+    "rationale": "调酒除了配方还需要服务互动和表演性，AI影响极小。"
+  },
+  {
+    "slug": "chayi-shi",
+    "title": "茶艺师",
+    "exposure": 2,
+    "rationale": "茶艺表演和品茶服务是文化体验型工作，核心在于人际互动和文化传承。"
+  },
+  {
+    "slug": "huoguo-dian-yuangong",
+    "title": "火锅店员工",
+    "exposure": 2,
+    "rationale": "火锅店服务主要是配菜、上菜和现场服务，属于基础餐饮服务。"
+  },
+  {
+    "slug": "shipin-anquan-guanliyuan",
+    "title": "食品安全管理员",
+    "exposure": 5,
+    "rationale": "食品安全检测和记录可利用AI系统辅助，但现场巡查和管理仍需人工。"
+  },
+  {
+    "slug": "liansuo-canyin-dianzhang",
+    "title": "连锁餐饮店长",
+    "exposure": 5,
+    "rationale": "门店管理涉及人员协调和现场运营，AI可辅助销售分析和库存管理。"
+  },
+  {
+    "slug": "waimai-shangjia-yunying",
+    "title": "外卖商家运营",
+    "exposure": 6,
+    "rationale": "线上店铺运营、菜品包装设计和数据分析是数字化工作，AI可辅助优化。"
+  },
+  {
+    "slug": "daoyou",
+    "title": "导游",
+    "exposure": 5,
+    "rationale": "导游服务需要现场讲解和人际互动，AI导游APP可辅助但深度讲解和应急处理靠人。"
+  },
+  {
+    "slug": "lvxingshe-jidiao",
+    "title": "旅行社计调",
+    "exposure": 7,
+    "rationale": "行程规划和资源调度是信息处理工作，AI旅行规划工具正在快速发展。"
+  },
+  {
+    "slug": "minsu-jingyingzhe",
+    "title": "民宿经营者",
+    "exposure": 5,
+    "rationale": "民宿运营涉及线上营销和现场接待，AI可辅助定价和营销但服务体验靠人。"
+  },
+  {
+    "slug": "jizhe",
+    "title": "记者",
+    "exposure": 8,
+    "rationale": "新闻写作和信息整理是AI生成式内容的核心应用场景，传统记者岗位面临重大冲击。"
+  },
+  {
+    "slug": "bianji",
+    "title": "编辑",
+    "exposure": 8,
+    "rationale": "文稿编辑、校对和内容筛选是高度文本化的工作，AI编辑工具已广泛应用。"
+  },
+  {
+    "slug": "wangluo-zhubo",
+    "title": "网络主播",
+    "exposure": 4,
+    "rationale": "直播需要实时人格魅力和互动能力，AI虚拟主播有发展但真人主播仍有不可替代性。"
+  },
+  {
+    "slug": "duanshipin-chuangzuozhe",
+    "title": "短视频创作者",
+    "exposure": 6,
+    "rationale": "视频脚本和剪辑可借助AI工具，但创意策划和个人风格仍是核心竞争力。"
+  },
+  {
+    "slug": "youxi-shejishi",
+    "title": "游戏设计师",
+    "exposure": 8,
+    "rationale": "游戏关卡设计、美术和剧情创作是数字化工作，AI在素材生成方面能力极强。"
+  },
+  {
+    "slug": "yingshi-daoyan",
+    "title": "影视导演",
+    "exposure": 5,
+    "rationale": "导演需要现场指挥和艺术判断，AI可辅助预览和后期但创作核心在于人的视野。"
+  },
+  {
+    "slug": "sheyingshi",
+    "title": "摄影师",
+    "exposure": 5,
+    "rationale": "商业摄影需要现场拍摄技能，AI修图和生成图片正在冲击部分摄影需求。"
+  },
+  {
+    "slug": "donghua-shejishi",
+    "title": "动画设计师",
+    "exposure": 8,
+    "rationale": "动画制作完全在电脑上完成，AI动画生成和中间帧插值技术正在革命性地改变行业。"
+  },
+  {
+    "slug": "pingmian-shejishi",
+    "title": "平面设计师",
+    "exposure": 8,
+    "rationale": "平面设计是AI图像生成的核心应用领域，基础设计工作已大量被AI完成。"
+  },
+  {
+    "slug": "wenchuang-chanpin-cehua-yunying-shi",
+    "title": "文创产品策划运营师",
+    "exposure": 6,
+    "rationale": "文创策划涉及创意和市场洞察，AI可辅助设计和文案但创意核心靠人。"
+  },
+  {
+    "slug": "banquan-jingjiren",
+    "title": "版权经纪人",
+    "exposure": 7,
+    "rationale": "版权管理和交易涉及合同和法律文书，数字化程度高，AI可辅助检索和匹配。"
+  },
+  {
+    "slug": "yinyue-zhizuoren",
+    "title": "音乐制作人",
+    "exposure": 7,
+    "rationale": "音乐创作和编曲是数字化工作，AI作曲工具快速发展但原创性和艺术判断靠人。"
+  },
+  {
+    "slug": "bianju",
+    "title": "编剧",
+    "exposure": 8,
+    "rationale": "剧本创作是纯文字工作，AI在故事生成和对白撰写方面进步显著。"
+  },
+  {
+    "slug": "boyin-zhuchi",
+    "title": "播音主持",
+    "exposure": 6,
+    "rationale": "现场主持需要人格魅力和应变能力，AI合成声音可替代部分录播但直播仍靠人。"
+  },
+  {
+    "slug": "xinmeiti-yunying",
+    "title": "新媒体运营",
+    "exposure": 7,
+    "rationale": "内容创作和数据分析是数字化工作，AI可辅助文案和排期但策略和创意靠人。"
+  },
+  {
+    "slug": "gongwuyuan",
+    "title": "公务员",
+    "exposure": 6,
+    "rationale": "行政管理涉及大量文书和数据处理，AI可提效但政策制定和公共服务仍需人工。"
+  },
+  {
+    "slug": "jingcha",
+    "title": "警察",
+    "exposure": 4,
+    "rationale": "执法工作需要现场执勤和人际沟通，AI辅助视频监控和数据分析但核心工作靠人。"
+  },
+  {
+    "slug": "faguan",
+    "title": "法官",
+    "exposure": 6,
+    "rationale": "法律判决需要综合考量和人文关怀，AI辅助案例检索和量刑参考但最终裁决靠人。"
+  },
+  {
+    "slug": "lvshi",
+    "title": "律师",
+    "exposure": 7,
+    "rationale": "法律研究和文书撰写是数字化工作，AI法律助手正在改变律师的工作方式。"
+  },
+  {
+    "slug": "jianchaguan",
+    "title": "检察官",
+    "exposure": 6,
+    "rationale": "检察工作涉及案件审查和法律分析，AI可辅助证据整理但起诉决策靠人。"
+  },
+  {
+    "slug": "gongzhengyuan",
+    "title": "公证员",
+    "exposure": 6,
+    "rationale": "公证流程部分可数字化，AI可辅助文书审核但法律效力确认仍需持证人员。"
+  },
+  {
+    "slug": "xiaofangyuan",
+    "title": "消防员",
+    "exposure": 1,
+    "rationale": "消防救援是高风险的现场体力工作，AI主要用于火灾预警和调度辅助。"
+  },
+  {
+    "slug": "shequ-gongzuozhe",
+    "title": "社区工作者",
+    "exposure": 4,
+    "rationale": "社区服务需要面对面的群众沟通和走访，AI辅助信息管理但基层工作靠人。"
+  },
+  {
+    "slug": "chengshi-guanli-zhifayuan",
+    "title": "城市管理执法员",
+    "exposure": 3,
+    "rationale": "城管执法需要现场巡查和执法互动，AI辅助监控但执法行为靠人。"
+  },
+  {
+    "slug": "falv-zhuli",
+    "title": "法律助理",
+    "exposure": 8,
+    "rationale": "法律文书整理和案例检索是AI法律工具的核心应用场景，初级工作被大量替代。"
+  },
+  {
+    "slug": "shehui-gongzuozhe",
+    "title": "社会工作者",
+    "exposure": 4,
+    "rationale": "社工服务需要面对面的人际支持和心理辅导，AI可辅助资源匹配但核心工作靠人。"
+  },
+  {
+    "slug": "junren",
+    "title": "军人",
+    "exposure": 2,
+    "rationale": "军事训练和执勤是高度物理性的工作，AI用于情报和指挥辅助但一线行动靠人。"
+  },
+  {
+    "slug": "xinfang-jiedaiyuan",
+    "title": "信访接待员",
+    "exposure": 5,
+    "rationale": "信访接待需要耐心倾听和政策解释，AI可辅助信息记录但情感沟通靠人。"
+  },
+  {
+    "slug": "waijiaoguan",
+    "title": "外交官",
+    "exposure": 5,
+    "rationale": "外交工作涉及国际谈判和政策分析，AI可辅助情报分析但人际外交不可替代。"
+  },
+  {
+    "slug": "lingshou-dianyuan",
+    "title": "零售店员",
+    "exposure": 4,
+    "rationale": "线下零售向线上转移，但实体店仍需人员提供面对面服务和商品展示。"
+  },
+  {
+    "slug": "dianshang-yunying",
+    "title": "电商运营",
+    "exposure": 7,
+    "rationale": "店铺运营和数据分析是数字化工作，AI可辅助选品、文案和客服但策略决策靠人。"
+  },
+  {
+    "slug": "zhibo-daihuo-zhubo",
+    "title": "直播带货主播",
+    "exposure": 5,
+    "rationale": "直播销售需要实时互动和个人魅力，AI虚拟主播有发展但头部主播仍靠真人。"
+  },
+  {
+    "slug": "kuajing-dianshang-yunying-guanlishi",
+    "title": "跨境电商运营管理师",
+    "exposure": 7,
+    "rationale": "跨境运营涉及多语言和多平台管理，AI翻译和智能运营工具正在大幅提升效率。"
+  },
+  {
+    "slug": "yonghu-zengzhang-yunying-shi",
+    "title": "用户增长运营师",
+    "exposure": 8,
+    "rationale": "用户增长分析和策略优化是纯数据驱动的数字化工作，AI在增长黑客领域表现突出。"
+  },
+  {
+    "slug": "fangchan-xiaoshou",
+    "title": "房产销售",
+    "exposure": 5,
+    "rationale": "房产销售需要现场带看和人际谈判，但客户匹配和信息推荐可被AI优化。"
+  },
+  {
+    "slug": "qiche-xiaoshou",
+    "title": "汽车销售",
+    "exposure": 5,
+    "rationale": "汽车销售需要现场试驾和面对面沟通，线上渠道和AI推荐改变获客方式。"
+  },
+  {
+    "slug": "yiyao-daibiao",
+    "title": "医药代表",
+    "exposure": 6,
+    "rationale": "医药推广面临合规监管收紧，AI信息推送和学术平台正在改变传统拜访模式。"
+  },
+  {
+    "slug": "kefu-zhuanyuan",
+    "title": "客服专员",
+    "exposure": 8,
+    "rationale": "客户服务是AI聊天机器人最成熟的应用场景之一，大量基础客服已被AI替代。"
+  },
+  {
+    "slug": "shangchang-daogou",
+    "title": "商场导购",
+    "exposure": 4,
+    "rationale": "导购需要面对面服务和产品体验推荐，但AR试穿和AI推荐正在减少部分需求。"
+  },
+  {
+    "slug": "pifa-shang",
+    "title": "批发商",
+    "exposure": 4,
+    "rationale": "批发贸易涉及供应链管理和客户关系，B2B平台和AI采购工具正在改变行业。"
+  },
+  {
+    "slug": "shichang-yingxiao-jingli",
+    "title": "市场营销经理",
+    "exposure": 7,
+    "rationale": "营销策略和品牌管理涉及创意和数据分析，AI营销工具正在大幅提升效率。"
+  },
+  {
+    "slug": "qudao-jingli",
+    "title": "渠道经理",
+    "exposure": 6,
+    "rationale": "渠道管理需要人际关系维护和商务谈判，AI可辅助数据分析但核心工作靠人。"
+  },
+  {
+    "slug": "shouhou-fuwu-gongchengshi",
+    "title": "售后服务工程师",
+    "exposure": 4,
+    "rationale": "售后维修需要现场操作和技术诊断，AI可辅助故障分析但维修靠人。"
+  },
+  {
+    "slug": "dianhua-xiaoshou",
+    "title": "电话销售",
+    "exposure": 9,
+    "rationale": "电话销售是高度重复的语音工作，AI外呼系统已能完成大部分标准化电销任务。"
+  },
+  {
+    "slug": "shangpin-chenlie-shi",
+    "title": "商品陈列师",
+    "exposure": 5,
+    "rationale": "商品陈列需要视觉审美和现场操作，AI可辅助方案设计但实际布置靠人。"
+  },
+  {
+    "slug": "caigou-yuan",
+    "title": "采购员",
+    "exposure": 6,
+    "rationale": "采购比价和供应商管理涉及数据处理和商务谈判，AI采购平台正在优化流程。"
+  },
+  {
+    "slug": "jiazheng-fuwuyuan",
+    "title": "家政服务员",
+    "exposure": 1,
+    "rationale": "家政服务是纯粹的入户体力劳动和人际照料，AI几乎无法替代。"
+  },
+  {
+    "slug": "yuesao",
+    "title": "月嫂",
+    "exposure": 1,
+    "rationale": "月嫂照料新生儿和产妇需要24小时的专业护理和陪伴，完全依赖人际服务。"
+  },
+  {
+    "slug": "yanglao-huliyuan",
+    "title": "养老护理员",
+    "exposure": 2,
+    "rationale": "老年人照护需要贴身的生活起居帮助和情感陪伴，AI护理机器人短期内难以替代。"
+  },
+  {
+    "slug": "meirongshi",
+    "title": "美容师",
+    "exposure": 2,
+    "rationale": "美容服务需要面对面的手工操作和个性化沟通，AI影响极小。"
+  },
+  {
+    "slug": "meifashi",
+    "title": "美发师",
+    "exposure": 1,
+    "rationale": "剪发和造型是纯粹的手工技艺，AI无法替代理发师的物理操作。"
+  },
+  {
+    "slug": "jianshen-jiaolian",
+    "title": "健身教练",
+    "exposure": 3,
+    "rationale": "健身指导需要现场动作示范和体能评估，AI可辅助方案制定但训练陪伴靠人。"
+  },
+  {
+    "slug": "peizhen-shi",
+    "title": "陪诊师",
+    "exposure": 2,
+    "rationale": "陪诊服务是伴随老龄化兴起的新职业，核心在于人际陪伴和现场协助。"
+  },
+  {
+    "slug": "chongwu-banchong-shi",
+    "title": "宠物伴宠师",
+    "exposure": 1,
+    "rationale": "宠物照护是纯粹的现场动物互动工作，AI无法替代与动物的物理陪伴。"
+  },
+  {
+    "slug": "baoan-yuan",
+    "title": "保安员",
+    "exposure": 3,
+    "rationale": "安保工作需要现场值守和应急处理，AI监控系统可辅助但物理安保靠人。"
+  },
+  {
+    "slug": "wuye-guanliyuan",
+    "title": "物业管理员",
+    "exposure": 4,
+    "rationale": "物业服务涉及现场设施管理和业主沟通，智能物业系统可辅助但日常管理靠人。"
+  },
+  {
+    "slug": "baojie-yuan",
+    "title": "保洁员",
+    "exposure": 1,
+    "rationale": "保洁是纯粹的体力劳动，清洁机器人仅适用于特定场景，多数清洁仍靠人工。"
+  },
+  {
+    "slug": "banjia-gongren",
+    "title": "搬家工人",
+    "exposure": 0,
+    "rationale": "搬运家具和物品是纯体力劳动，AI和自动化几乎无法介入。"
+  },
+  {
+    "slug": "hunli-cehuashi",
+    "title": "婚礼策划师",
+    "exposure": 5,
+    "rationale": "婚礼策划涉及创意设计和现场执行，AI可辅助方案生成和供应商匹配。"
+  },
+  {
+    "slug": "yuyingshi",
+    "title": "育婴师",
+    "exposure": 1,
+    "rationale": "婴幼儿照料需要全天候的贴身护理和互动，完全依赖人力。"
+  },
+  {
+    "slug": "chongwu-yisheng",
+    "title": "宠物医生",
+    "exposure": 4,
+    "rationale": "宠物诊疗需要现场检查和手术操作，AI可辅助诊断但治疗操作靠兽医。"
+  },
+  {
+    "slug": "binyishi",
+    "title": "殡仪师",
+    "exposure": 2,
+    "rationale": "殡葬服务需要庄重的人际互动和现场操作，文化和情感要素使AI难以介入。"
+  },
+  {
+    "slug": "guangfu-dianzhan-yunweiyuan",
+    "title": "光伏电站运维员",
+    "exposure": 4,
+    "rationale": "光伏运维需要现场设备检查和维修，AI辅助故障监测和发电优化。"
+  },
+  {
+    "slug": "fengdian-gongchengshi",
+    "title": "风电工程师",
+    "exposure": 5,
+    "rationale": "风电场设计涉及数据分析，但安装和维护需要高空现场作业。"
+  },
+  {
+    "slug": "chuneng-dianzhan-yunwei-guanliyuan",
+    "title": "储能电站运维管理员",
+    "exposure": 5,
+    "rationale": "新兴职业，需要现场设备管理，AI辅助电池健康监测和能量调度。"
+  },
+  {
+    "slug": "tan-zichan-guanlishi",
+    "title": "碳资产管理师",
+    "exposure": 7,
+    "rationale": "碳交易和核算是数据密集型工作，AI在碳排放监测和交易策略方面有显著应用。"
+  },
+  {
+    "slug": "xinnengyuan-qiche-weixiu-jishi",
+    "title": "新能源汽车维修技师",
+    "exposure": 3,
+    "rationale": "电动汽车三电系统维修需要专业技能和现场操作，AI辅助故障诊断。"
+  },
+  {
+    "slug": "huanjing-jiance-gongchengshi",
+    "title": "环境监测工程师",
+    "exposure": 6,
+    "rationale": "环境数据采集和分析可利用AI优化，但现场采样和监测设备维护需要人工。"
+  },
+  {
+    "slug": "laji-fenlei-guanliyuan",
+    "title": "垃圾分类管理员",
+    "exposure": 2,
+    "rationale": "垃圾分类指导和现场管理是基层社区工作，AI智能分类设备可辅助但推广靠人。"
+  },
+  {
+    "slug": "wushui-chuli-gong",
+    "title": "污水处理工",
+    "exposure": 3,
+    "rationale": "污水处理设施运行需要现场操作和监控，AI辅助水质分析和工艺优化。"
+  },
+  {
+    "slug": "dianneng-zhiliang-guanliyuan",
+    "title": "电能质量管理员",
+    "exposure": 6,
+    "rationale": "电能质量监测和分析涉及大量数据处理，AI在电网稳定性分析方面应用广泛。"
+  },
+  {
+    "slug": "chongdianzhuang-anzhuang-weihuyuan",
+    "title": "充电桩安装维护员",
+    "exposure": 2,
+    "rationale": "充电桩安装和维修是现场电气操作工作，AI影响主要在故障预警和调度。"
+  },
+  {
+    "slug": "qingneng-jishuyuan",
+    "title": "氢能技术员",
+    "exposure": 5,
+    "rationale": "氢能技术是新兴领域，涉及实验操作和设备维护，AI辅助工艺优化和安全监控。"
+  },
+  {
+    "slug": "xinnengyuan-yanfa-gongchengshi",
+    "title": "新能源研发工程师",
+    "exposure": 7,
+    "rationale": "新能源技术研发涉及仿真模拟和数据分析，AI加速材料筛选和性能预测。"
+  }
+]
