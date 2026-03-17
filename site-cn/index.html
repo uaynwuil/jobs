@@ -4,6 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>中国就业市场AI影响分析</title>
+<meta name="description" content="中国就业市场AI影响互动分析，涵盖各行业职业的人工智能替代风险评估。">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://madeye.github.io/jobs/">
+<meta property="og:title" content="中国就业市场AI影响分析">
+<meta property="og:description" content="中国就业市场AI影响互动分析，涵盖各行业职业的人工智能替代风险评估。">
+<meta property="og:image" content="https://madeye.github.io/jobs/og-image.png">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://madeye.github.io/jobs/">
+<meta name="twitter:title" content="中国就业市场AI影响分析">
+<meta name="twitter:description" content="中国就业市场AI影响互动分析，涵盖各行业职业的人工智能替代风险评估。">
+<meta name="twitter:image" content="https://madeye.github.io/jobs/og-image.png">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -276,6 +291,26 @@ canvas#canvas {
     <span>低</span>
     <canvas id="gradientLegend" width="80" height="8"></canvas>
     <span>高</span>
+  </div>
+
+  <div class="stat-section" style="border-top:1px solid rgba(255,255,255,0.06);padding-top:12px;margin-top:4px;">
+    <h3>数据说明</h3>
+    <div style="font-size:11px;color:var(--fg2);line-height:1.6;">
+      <p>本站数据由AI模型生成，非官方统计。流程如下：</p>
+      <p style="margin-top:6px;"><b style="color:var(--fg);">1. 职业生成</b><br>
+      使用 Gemini 3 Flash 按行业分批生成约250个中国职业条目，包含职称、年薪中位数、就业人数、学历要求、就业前景等字段。行业权重参考国家统计局第一/二/三产业就业结构（约22.8%/29.1%/48.1%）。</p>
+      <p style="margin-top:6px;"><b style="color:var(--fg);">2. AI影响评分</b><br>
+      使用 Gemini 3 Flash 对每个职业进行0-10分的AI影响程度评估，评分维度包括：任务自动化潜力、AI工具替代程度、行业采纳速度、物理/社交技能需求等。</p>
+      <p style="margin-top:6px;"><b style="color:var(--fg);">3. 可视化</b><br>
+      将职业数据与评分合并后，以树状图（Treemap）呈现。面积代表就业人数，颜色代表AI影响程度。</p>
+      <p style="margin-top:10px;"><b style="color:var(--fg);">参考资料</b></p>
+      <ul style="margin-top:4px;padding-left:16px;">
+        <li><a href="https://www.stats.gov.cn/sj/ndsj/2024/indexch.htm" style="color:var(--fg2);">国家统计局 — 中国统计年鉴2024</a></li>
+        <li><a href="https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html" style="color:var(--fg2);">2024年国民经济和社会发展统计公报</a></li>
+        <li><a href="https://github.com/karpathy/jobs" style="color:var(--fg2);">karpathy/jobs — 美国版原始项目</a></li>
+      </ul>
+      <p style="margin-top:8px;color:var(--fg2);font-size:10px;">⚠ 所有数据均由AI模型估算，仅供参考，不代表官方统计结果。</p>
+    </div>
   </div>
 </div>
 
