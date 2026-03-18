@@ -189,12 +189,60 @@ body {
   border-radius: 2px;
 }
 
+#mobile-toggle {
+  display: none;
+  position: fixed;
+  top: 10px; left: 10px;
+  z-index: 30;
+  background: var(--bg2);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--fg);
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
 canvas#canvas {
   display: block;
   position: fixed;
   top: 0;
   left: var(--sidebar-w);
   cursor: default;
+}
+
+@media (max-width: 768px) {
+  :root { --sidebar-w: 0px; }
+
+  #mobile-toggle { display: block; }
+
+  #sidebar {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    width: 100%;
+    z-index: 25;
+    padding: 48px 20px 20px;
+    overflow-y: auto;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+  }
+  #sidebar.open {
+    transform: translateX(0);
+  }
+
+  canvas#canvas {
+    left: 0;
+    width: 100vw !important;
+  }
+
+  #tooltip {
+    max-width: 280px;
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+  #tooltip .tt-title { font-size: 13px; }
+  #tooltip .tt-stats { font-size: 11px; gap: 2px 8px; }
+  #tooltip .tt-rationale { font-size: 10px; }
 }
 
 #tooltip {
@@ -242,6 +290,8 @@ canvas#canvas {
 </style>
 </head>
 <body>
+
+<button id="mobile-toggle" onclick="document.getElementById('sidebar').classList.toggle('open'); this.textContent = document.getElementById('sidebar').classList.contains('open') ? '✕ 关闭' : '☰ 统计'">☰ 统计</button>
 
 <div id="sidebar">
   <div>
@@ -440,8 +490,10 @@ let dpr = window.devicePixelRatio || 1;
 const MARGIN = 12;
 const GAP = 1.5;
 
+function isMobile() { return window.innerWidth <= 768; }
+
 function layout() {
-  const sidebarW = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const sidebarW = isMobile() ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
   const w = (window.innerWidth - sidebarW);
   const h = window.innerHeight;
 
@@ -540,7 +592,7 @@ function draw() {
 }
 
 function hitTest(mx, my) {
-  const sidebarW = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const sidebarW = isMobile() ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
   const cx = mx - sidebarW;
   const cy = my;
   for (let i = rects.length - 1; i >= 0; i--) {
@@ -593,11 +645,18 @@ function showTooltip(d, mx, my) {
     d.exposure_rationale || "";
 
   const pad = 16;
-  let tx = mx + pad;
-  let ty = my - pad;
-  if (tx + 340 > window.innerWidth) tx = mx - 340 - pad;
-  if (ty < 10) ty = my + pad;
-  if (ty + 200 > window.innerHeight) ty = my - 200;
+  const ttW = isMobile() ? 280 : 340;
+  let tx, ty;
+  if (isMobile()) {
+    tx = Math.max(8, Math.min(mx - ttW / 2, window.innerWidth - ttW - 8));
+    ty = my > window.innerHeight / 2 ? my - 180 : my + pad;
+  } else {
+    tx = mx + pad;
+    if (tx + ttW > window.innerWidth) tx = mx - ttW - pad;
+    ty = my - pad;
+    if (ty < 10) ty = my + pad;
+    if (ty + 200 > window.innerHeight) ty = my - 200;
+  }
 
   tt.style.left = tx + "px";
   tt.style.top = ty + "px";
@@ -773,6 +832,45 @@ canvas.addEventListener("mouseleave", () => {
   hovered = null;
   hideTooltip();
   draw();
+});
+
+// ── Touch support for mobile ────────────────────────────────────────
+canvas.addEventListener("touchstart", (e) => {
+  const touch = e.touches[0];
+  const hit = hitTest(touch.clientX, touch.clientY);
+  if (hit !== hovered) {
+    hovered = hit;
+    draw();
+  }
+  if (hovered) {
+    e.preventDefault();
+    showTooltip(hovered, touch.clientX, touch.clientY);
+  } else {
+    hideTooltip();
+  }
+}, { passive: false });
+
+canvas.addEventListener("touchend", (e) => {
+  if (hovered && hovered.url && e.changedTouches.length) {
+    const touch = e.changedTouches[0];
+    const hit = hitTest(touch.clientX, touch.clientY);
+    if (hit === hovered) {
+      if (hovered._tapped) {
+        window.open(hovered.url, "_blank");
+        hovered._tapped = false;
+      } else {
+        hovered._tapped = true;
+      }
+    }
+  }
+});
+
+document.addEventListener("touchstart", (e) => {
+  if (e.target !== canvas && !e.target.closest("#tooltip")) {
+    hovered = null;
+    hideTooltip();
+    draw();
+  }
 });
 
 function resize() {
